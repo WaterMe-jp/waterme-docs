@@ -8,6 +8,7 @@
 - Notionベースの設計内容をMarkdownにエクスポートして保存
 
 ## 📂 ディレクトリ構成
+```
 waterme-docs/
 ├── notion/ # Notionから書き出した設計書・企画書など
 │ ├── 2025-06-ビジネス設計書.md
@@ -18,6 +19,7 @@ waterme-docs/
 │ ├── LP構成マニュアル.md
 │ └── ...
 └── README.md
+```
 
 ## 🔐 注意点
 - 機密性の高い内部メモは別途 `private-docs/` に分けて非公開管理
